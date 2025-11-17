@@ -438,5 +438,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 # Result:
  Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor
  
-## Result :
-Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
+ 
