@@ -427,9 +427,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
-## Output screen shots on serial monitor   :
+## Output  :
  ![WhatsApp Image 2025-11-17 at 3 26 31 PM](https://github.com/user-attachments/assets/ee399eac-b7ae-4a17-9a43-b97717e34f7d)
- 
+
+ ## Output screen shots on serial monitor   :
  <img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/5421f26b-e743-4f11-bd37-52f72d13912d" />
 
 
