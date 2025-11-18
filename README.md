@@ -1,7 +1,6 @@
 # EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
 
 ## Aim: 
-
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
 ## Components required: 
 
@@ -425,15 +424,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 ```
-
-
 ## Output  :
- ![WhatsApp Image 2025-11-17 at 3 26 31 PM](https://github.com/user-attachments/assets/ee399eac-b7ae-4a17-9a43-b97717e34f7d)
+![WhatsApp Image 2025-11-17 at 3 26 31 PM](https://github.com/user-attachments/assets/ee399eac-b7ae-4a17-9a43-b97717e34f7d)
 
- ## Output screen shots on serial monitor   :
- <img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/5421f26b-e743-4f11-bd37-52f72d13912d" />
-
-
+## Output screen shots on serial monitor   :
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/5421f26b-e743-4f11-bd37-52f72d13912d" />
 
 # Result:
  Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor
